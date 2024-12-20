@@ -28,7 +28,7 @@ span {
     font-size: 30px;
 }
 
-/* Первая секция */
+https://melnyk1789.github.io/hw5/
 .mickey {
     padding-top: 99px;
     padding-bottom: 99px;
@@ -77,3 +77,102 @@ span {
     padding: 10px 20px;
     border-radius: 8px;
 }
+
+.coco {
+    padding-top: 99px;
+    padding-bottom: 99px;
+}
+
+.coco-container {
+    display: flex;
+    gap: 107px;
+}
+
+.coco-desc {
+    font-size: 19px;
+    line-height: 189%;
+    display: flex;
+    align-items: center;
+    padding-bottom: 28px;
+}
+
+.coco-desc span {
+    background-color: #EBA789;
+    margin-right: 30px;
+}
+
+.coco-title {
+    color: #101010;
+    line-height: 100%;
+    font-size: 35px;
+    letter-spacing: 0.03em;
+    padding-bottom: 28px;
+    font-weight: 400;
+}
+
+.coco-text {
+    font-size: 14px;
+    line-height: 158%;
+    color: #101010;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    padding-bottom: 35px;
+}
+
+.coco-link {
+    background-color: #EBA789;
+    color: #000000;
+    font-size: 16px;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+
+.vayana {
+    padding-top: 99px;
+    padding-bottom: 99px;
+}
+
+.vayana-container {
+    display: flex;
+    gap: 107px;
+}
+
+.vayana-desc {
+    font-size: 19px;
+    line-height: 189%;
+    display: flex;
+    align-items: center;
+    padding-bottom: 28px;
+}
+
+.vayana-desc span {
+    background-color: #96DBC6;
+    margin-right: 30px;
+}
+
+.vayana-title {
+    color: #101010;
+    line-height: 100%;
+    font-size: 35px;
+    letter-spacing: 0.03em;
+    padding-bottom: 28px;
+    font-weight: 400;
+}
+
+.vayana-text {
+    font-size: 14px;
+    line-height: 158%;
+    color: #101010;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    padding-bottom: 35px;
+}
+
+.vayana-link {
+    background-color: #96DBC6;
+    color: #000000;
+    font-size: 16px;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+
