@@ -1,0 +1,79 @@
+body {
+    background-color: #e7dfd8;
+    margin: 0;
+    font-family: "Inter", sans-serif;
+}
+
+h2, p {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1119px;
+}
+
+span {
+    width: 74px;
+    height: 74px;
+    border-radius: 100px;
+    color: #101010;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+/* Первая секция */
+.mickey {
+    padding-top: 99px;
+    padding-bottom: 99px;
+}
+
+.mickey-container {
+    display: flex;
+    gap: 107px;
+}
+
+.mickey-desc {
+    font-size: 19px;
+    line-height: 189%;
+    display: flex;
+    align-items: center;
+    padding-bottom: 28px;
+}
+
+.mickey-desc span {
+    background-color: #B99FEA;
+    margin-right: 30px;
+}
+
+.mickey-title {
+    color: #101010;
+    line-height: 100%;
+    font-size: 35px;
+    letter-spacing: 0.03em;
+    padding-bottom: 28px;
+    font-weight: 400;
+}
+
+.mickey-text {
+    font-size: 14px;
+    line-height: 158%;
+    color: #101010;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    padding-bottom: 35px;
+}
+
+.mickey-link {
+    background-color: #B99FEA;
+    color: #000000;
+    font-size: 16px;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
