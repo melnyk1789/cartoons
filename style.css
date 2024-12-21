@@ -44,7 +44,7 @@ https://melnyk1789.github.io/hw5/
     line-height: 189%;
     display: flex;
     align-items: center;
-    padding-bottom: 28px;
+    padding-bottom: 28px
 }
 
 .mickey-desc span {
@@ -114,7 +114,6 @@ https://melnyk1789.github.io/hw5/
     font-size: 14px;
     line-height: 158%;
     color: #101010;
-    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
     padding-bottom: 35px;
 }
 
@@ -163,7 +162,6 @@ https://melnyk1789.github.io/hw5/
     font-size: 14px;
     line-height: 158%;
     color: #101010;
-    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
     padding-bottom: 35px;
 }
 
